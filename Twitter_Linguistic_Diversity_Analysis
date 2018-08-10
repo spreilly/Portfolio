@@ -1,3 +1,0 @@
-This project foused on accessing a univeristy PostgreSQL database from a Python environment to do linguistical  analysis on Twitter data. SQL queries were ran using Drill and Spark as well as the pyscopg2 package. The Shannon Diversity Index function from the Alpha Diversity Measures package was used to analyze the linguistical diveristies of New York, Chicago, and Seattle, based on counts of tweets in different languages.
-
-The project moved on to compare the popularity of hashtags and mentions between the cities from different time periods.
