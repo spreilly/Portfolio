@@ -1,3 +1,3 @@
-Below is the web address to my Historical Mortgage Affordability Index ShinyApp, which was the final project for my Advanced Visualization 1 class. The app was created using Shiny in R. The data was compiled from several sources. Visit the app to learn more. I've also uploaded several notebooks from the development process.
+These R notebooks built out a Shiny App that tracked hitorical mortgage data against racial demographics in the US Census defined regions Northeast, South, Midwest, West. The app has been taken off the MU DSA server. I am hoping to hosting server soon.
 
 https://shiny.dsa.missouri.edu/students/sprww3/DATA-SCI-8654/module8-exercise1/
