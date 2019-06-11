@@ -1,6 +1,5 @@
 # Portfolio
-Example Projects
 
-Welcome to my Portfolio repository! Here you will find projects I have worked on including graduate school course work. Check back often for updates.
+Welcome to my Portfolio repository. Content includes graudate school coursework and other projects.
 
 Thank you for visiting!
