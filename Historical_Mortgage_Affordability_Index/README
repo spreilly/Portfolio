@@ -1,3 +1,1 @@
-These R notebooks built out a Shiny App that tracked hitorical mortgage data against racial demographics in the US Census defined regions Northeast, South, Midwest, West. The app has been taken off the MU DSA server. I am hoping to hosting server soon.
-
-https://shiny.dsa.missouri.edu/students/sprww3/DATA-SCI-8654/module8-exercise1/
+These R notebooks built out a Shiny App that tracked hitorical mortgage data against racial demographics in the US Census defined regions: Northeast, South, Midwest, West. Additionally it incldues an affordability index I developed tracks median mortgage affordability by household, per race and region. The app is currently not hosted on any server.
